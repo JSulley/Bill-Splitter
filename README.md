@@ -1,1 +1,2 @@
-# Bill-Splitter
+# Bill Splitter
+This program calculates the value that each person in a party pays to contribute paying the overall bill. It accepts the number of people in the party, the names of each guest, and the total bill. An optional feature is the "Lucky Person" feature where the program randomly selects one of the guests in the party and if selected, they pay nothing! The amount each person pays, based on the given input, is then printed.
